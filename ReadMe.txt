@@ -1,6 +1,6 @@
-Access database for a vacation booking agency, including Tables, Queries, Forms, and Reports.
-Basic functionalities include:
+Access database for a vacation booking agency, including Tables, Queries, Forms, and Reports (database in Greek).
 
+Basic functionalities include:
 > Create vacation packages
 > Assign customers to the vacation
 > Manage hotels for the vacation
